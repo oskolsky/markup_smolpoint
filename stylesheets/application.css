@@ -1,0 +1,57 @@
+@import 'reset.css' all;
+@import 'screen.css' screen;
+
+@font-face {
+  font-family: 'pf_dindisplay_pro_thinregular';
+  src: url('/fonts/pfdindisplaypro-thin-webfont.eot');
+  src: url('/fonts/pfdindisplaypro-thin-webfont.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/pfdindisplaypro-thin-webfont.woff') format('woff'),
+    url('/fonts/pfdindisplaypro-thin-webfont.ttf') format('truetype'),
+    url('/fonts/pfdindisplaypro-thin-webfont.svg#pf_dindisplay_pro_thinregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'pf_dindisplay_pro_thinitalic';
+  src: url('/fonts/pfdindisplaypro-thinital-webfont.eot');
+  src: url('/fonts/pfdindisplaypro-thinital-webfont.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/pfdindisplaypro-thinital-webfont.woff') format('woff'),
+    url('/fonts/pfdindisplaypro-thinital-webfont.ttf') format('truetype'),
+    url('/fonts/pfdindisplaypro-thinital-webfont.svg#pf_dindisplay_pro_thinitalic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'pf_dindisplay_pro_lightRg';
+  src: url('/fonts/pfdindisplaypro-light-webfont.eot');
+  src: url('/fonts/pfdindisplaypro-light-webfont.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/pfdindisplaypro-light-webfont.woff') format('woff'),
+    url('/fonts/pfdindisplaypro-light-webfont.ttf') format('truetype'),
+    url('/fonts/pfdindisplaypro-light-webfont.svg#pf_dindisplay_pro_lightRg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'pf_dindisplay_proregular';
+  src: url('/fonts/pfdindisplaypro-reg-webfont.eot');
+  src: url('/fonts/pfdindisplaypro-reg-webfont.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/pfdindisplaypro-reg-webfont.woff') format('woff'),
+    url('/fonts/pfdindisplaypro-reg-webfont.ttf') format('truetype'),
+    url('/fonts/pfdindisplaypro-reg-webfont.svg#pf_dindisplay_proregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'pf_dindisplay_pro_mediumRg';
+  src: url('/fonts/pfdindisplaypro-med-webfont.eot');
+  src: url('/fonts/pfdindisplaypro-med-webfont.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/pfdindisplaypro-med-webfont.woff') format('woff'),
+    url('/fonts/pfdindisplaypro-med-webfont.ttf') format('truetype'),
+    url('/fonts/pfdindisplaypro-med-webfont.svg#pf_dindisplay_pro_mediumRg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
